@@ -56,7 +56,7 @@ I’m a full-stack developer based in Georgia, focused on writing clean, maintai
 
 - 📧 **Email:** [ivanishvilil774@gmail.com](mailto:ivanishvilil774@gmail.com)  
 - 💻 **GitHub:** [github.com/lxka806](https://github.com/lxka806)  
-- 🌐 **Portfolio / Projects:** [github.com/lxka806](https://github.com/lxka806) (hosted projects here)
+- 🌐 **Portfolio / Projects:** [github.com/lxka806](https://github.com/lxka806)
 
 <h3>Social</h3>
 <p>
