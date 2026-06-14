@@ -56,14 +56,14 @@ I’m a full-stack developer based in Georgia, focused on writing clean, maintai
 
 - 📧 **Email:** [ivanishvilil774@gmail.com](mailto:ivanishvilil774@gmail.com)  
 - 💻 **GitHub:** [github.com/lxka806](https://github.com/lxka806)  
-- 🌐 **Portfolio / Projects:** [github.com/lxka806](https://github.com/lxka806)
+- 🌐 **Projects:** [github.com/lxka806](https://github.com/lxka806)
 
 <h3>Social</h3>
 <p>
   <a href="https://fb.com/luka ivanishvili" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
   </a>
-  <a href="https://instagram.com/ivanishvili.luka" target="_blank">
+  <a href="https://www.instagram.com/v0idynx/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
   </a>
 </p>
