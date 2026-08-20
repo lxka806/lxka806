@@ -59,7 +59,7 @@ I’m a full-stack developer based in Georgia, focused on writing clean, maintai
 
 <h3>Social</h3>
 <p>
-  <a href="https://www.facebook.com/luka.ivanishvili.209690/ target="_blank">
+  <a href="https://www.facebook.com/luka.ivanishvili.209690/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
   </a>
   <a href="https://www.instagram.com/v0idynx/" target="_blank">
