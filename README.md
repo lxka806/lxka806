@@ -18,7 +18,6 @@
 
 I’m a full-stack developer based in Georgia, focused on writing clean, maintainable code and delivering real value through technology.
 
-- 🔭 **Current project:** [ArguMind](https://github.com/lxka806/ArguMind) – a platform for structured debating and critical thinking  
 - 🌱 **Learning:** Advanced React patterns, system design, and backend architecture  
 - 🤝 **Open to:** Collaborating on full-stack and open-source projects  
 - 📘 **Mentorship:** I enjoy helping other developers grow and sharing what I learn  
