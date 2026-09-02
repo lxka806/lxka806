@@ -86,9 +86,9 @@ The platform is focused on helping users:
 * Manage subscription-related transactions
 * Get a clearer overview of their recurring spending
 
-**Technologies:** React · Node.js · Express · MongoDB · Django · SQL
+**Technologies:** React · Node.js · Express · MongoDB
 
-> Project name coming soon.
+> Project name: Subora
 
 ---
 
