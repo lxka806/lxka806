@@ -23,8 +23,6 @@ I’m a full-stack developer passionate about building practical, scalable, and 
 
 I enjoy working across the entire stack — from designing responsive interfaces to building APIs, authentication systems, databases, and backend architecture.
 
-* 🌱 **Currently learning:** Django, SQL, advanced React patterns, and backend architecture
-* 🚀 **Currently building:** Language learning app
 * 💻 **Interested in:** Full-stack development, SaaS products, backend systems, and open-source projects
 * 🤝 **Open to:** Collaborating on interesting full-stack and open-source projects
 * 📘 **Mentorship:** I enjoy helping other developers learn and improve
