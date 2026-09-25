@@ -67,33 +67,12 @@ I enjoy working across the entire stack — from designing responsive interfaces
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
-
-## 🚀 Current Project
-
-### Subscription Management Platform
-
-I’m currently developing a web application designed to help users manage and monitor their online subscriptions in one place.
-
-The platform is focused on helping users:
-
-* Track active subscriptions
-* Monitor recurring payments
-* View subscription expenses
-* Organize different online services
-* Manage subscription-related transactions
-* Get a clearer overview of their recurring spending
-
-**Technologies:** React · Node.js · Express · MongoDB
-
-> Project name: Subora
-
----
 
 ## 📫 Contact & Profiles
 
 * 📧 **Email:** [ivanishvilil774@gmail.com](mailto:ivanishvilil774@gmail.com)
 * 💻 **GitHub:** [github.com/lxka806](https://github.com/lxka806)
+* 💻 **Website:** (https://luka-ivanishvili-portfolio.netlify.app/)
 
 ### Social
 
