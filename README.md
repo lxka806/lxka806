@@ -72,7 +72,7 @@ I enjoy working across the entire stack — from designing responsive interfaces
 
 * 📧 **Email:** [ivanishvilil774@gmail.com](mailto:ivanishvilil774@gmail.com)
 * 💻 **GitHub:** [github.com/lxka806](https://github.com/lxka806)
-* 💻 **Website:** (https://luka-ivanishvili-portfolio.netlify.app/)
+* 🌐 **Website:** https://luka-ivanishvili-portfolio.netlify.app/
 
 ### Social
 
