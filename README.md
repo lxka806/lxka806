@@ -80,10 +80,6 @@ I enjoy working across the entire stack — from designing responsive interfaces
   <a href="https://www.facebook.com/luka.ivanishvili.209690/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
   </a>
-
-  <a href="https://www.instagram.com/luka90945/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
-  </a>
 </p>
 
 ---
